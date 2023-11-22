@@ -1,254 +1,256 @@
-[
-   {
-      "CategoryName":"Industrial Thermal Printers",
-      "CategoryDescription":"SATO’s Industrial barcode printers are the hallmark of printing products for harsh environments and applications. Our printers are field tested to ensure you the best print quality possible in barcode, text, and RFID encoding of labels, tags, invoices, packing slips and e-commerce or compliance labeling. Product identification, warehouse bin labels, cross dock, and routing labels are only a few of the barcode labeling applications customers trust every day to SATO.",
-      "Products":[
-         {
-            "ProductName":"CL4NX Plus",
-            "ProductDescription":"The CL4NX Plus printer offers a vast array of standard features that are unequaled by its competition. Printer setups, operation, and maintenance are supremely easy and intuitive.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/6zsciAF.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/rkxkHBg.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/cCoKS5b.png"
-               }
-            ]
-         },
-         {
-            "ProductName":"CL6NX Plus",
-            "ProductDescription":"The CL6NX Plus printer offers a vast array of standard features that are unequaled by its competition. Printer setups, operation, and maintenance are supremely easy and intuitive.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/zSWQ7l2.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/gn3tZNV.png"
-               }
-            ]
-         },
-         {
-            "ProductName":"M84Pro",
-            "ProductDescription":"The M84Pro Series - the rugged industrial generation of high performance printer with high resolution capabilities. The M84Pro offers user configurable print resolutions of 203, 305, and 609 dpi. The M84Pro’s powerful electronics provide high throughput and print speeds of 10, 8 and 6 ips at 203, 305 and 609 dpi respectively.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/2KIVo4d.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/LihfIT1.png"
-               }
-            ]
-         }
-      ]
-   },
-   {
-      "CategoryName":"Desktop Thermal Printers",
-      "CategoryDescription":"Thermal desktop printers from SATO are compact, cost effective, and easy-to-use. Receipts, labels, wristbands and RFID inventory tracking labels are easily created on a printer that fits just about anywhere. Advanced thermal barcode technology ensures these printers are of the highest quality and extremely reliable. Where space is limited, but label print quality is essential, these feature-rich models offer the best in reliability and price.",
-      "Products":[
-         {
-            "ProductName":"CT4-LX Series",
-            "ProductDescription":"Anything but ordinary, the CT4-LX thermal desktop printer seamlessly combines intelligence, functionality, and performance. Standard features include a 4.3-inch full-color touch screen display, multiple connectivity options, existing application support using on-board competitive emulations along with instructional videos. Setup, operation, and maintenance are just a touch away.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/yBwPFtc.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/z5pbiYv.png"
-               }
-            ]
-         },
-         {
-            "ProductName":"CT4-LX-HC",
-            "ProductDescription":"Nothing comes close to the CT4-LX-HC thermal desktop Healthcare printer. Seamlessly combining intelligence, functionality and performance. Standard features include clinical-ready antimicrobial plastic casing, disinfectant wipe-down ready, the full color touch display, multiple connectivity options, existing application support, and on-board videos. Setup, operation, and maintenance is just a touch away.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/QAg1GsD.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/gRxhbHc.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/I2VfXbZ.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/IIRKmXJ.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/2b8ksJQ.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/NX62eTA.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/6M5q11P.png"
-               }
-            ]
-         },
-         {
-            "ProductName":"WS2",
-            "ProductDescription":"Setting the new standard in 2” printing with the ability to accommodate a wide array of media to meet a multitude of print on demand needs.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/Dg0ECsg.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/0BqpyLK.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/Ky3pqTN.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/x0DimPz.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/Mds2lTS.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/llLiSxJ.jpg"
-               }
-            ]
-         },
-         {
-            "ProductName":"WS4",
-            "ProductDescription":"The SATO WS4 Series of 4-inch desktop thermal printers are feature-rich, affordably priced with great production throughput. Available in Direct Thermal (DT) or Thermal Transfer (TT) the WS4 offers exceptional print quality at either 203dpi or 300dpi with print speeds of up to 6 ips.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/zS2OH1Y.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/MxYyrEa.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/FCH2uEv.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/0Anj60q.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/XKNRHXP.png"
-               }
-            ]
-         }
-      ]
-   },
-   {
-      "CategoryName":"Mobile Thermal Printers",
-      "CategoryDescription":"Portable thermal printers offer the flexibility needed for many receipt and label applications. For the mobile work force, point-of-activity printing is a significant way to boost accuracy, efficiency and worker productivity in retail, healthcare, hospitality and warehouse management.",
-      "Products":[
-         {
-            "ProductName":"PW4NX",
-            "ProductDescription":"SATO’s new PW4NX mobile label printer meets the needs of a changing, fast-paced world, and exceeds expectations for what printers can do. Fast, durable, intelligent, and innovative; the PW4NX’s large color screen, programmability, and pre-installed emulations make it user-friendly and easy to integrate. Customers familiar with SATO’s flagship CL4NX Industrial printers will love this compact and portable equivalent.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/34zFy2T.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/tGfWOK2.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/G0l2OrX.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/iQMg0g5.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/8hYyVQH.png"
-               }
-            ]
-         },
-         {
-            "ProductName":"PW2NX",
-            "ProductDescription":"The PW2NX is SATO’s next generation of IoT-equipped and ruggedized mobile printers designed for use across multiple industry verticals and their applications.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/9daWnEa.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/0zPoq9l.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/oiZ4fev.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/8VIAfBn.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/8zdYsMc.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/PYmuqA3.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/UcTK6hR.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/sPP69z7.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/JVZ8ZI3.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/sKRFU0r.png"
-               }
-            ]
-         }
-      ]
-   },
-   {
-      "CategoryName":"Handheld Labeling Solutions",
-      "CategoryDescription":"SATO’s Handheld Labeling Solution portfolio features a broad array of reliable tools that allow users to tag product efficiently and effectively. Proven across industries, our lightweight and ergonomic handheld labelers are intuitive to use with rapid digit selection and easy ink roller and label loading make operations smooth and simple.",
-      "Products":[
-         {
-            "ProductName":"SATO Handheld Labeling Systems",
-            "ProductDescription":"Introduced into the market in 1962, SATO brand Handheld Labeling Solutions have become known for their robust construction, ease of use and printband configurations.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/r4TJ4Be.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/NTG2l1S.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/rLjQOa6.png"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/ZEukPpf.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/MfVbve0.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/MlVM1RU.jpg"
-               }
-            ]
-         },
-         {
-            "ProductName":"PA Handheld Labeling Systems",
-            "ProductDescription":"PA Handheld Labeling Systems assure high quality and flexibility for shade marking and other consecutive numbering applications.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/JGnTGzd.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/4qNrL4u.jpg"
-               }
-            ]
-         },
-         {
-            "ProductName":"Meto Handheld Labeling System",
-            "ProductDescription":"A wide range of quality Handheld Labeling Solutions for retail, manufacturing and specialty markets that require accurate information at product level. Meto tools feature Uniform Pressure Device (UPD) technology, which delivers consistent pressure resulting in a reliable print on every label.",
-            "Images":[
-               {
-                  "ImagePath":"https://i.imgur.com/VldftW2.jpg"
-               },
-               {
-                  "ImagePath":"https://i.imgur.com/ZXDCq1G.png"
-               }
-            ]
-         }
-      ]
-   }
-]
+{
+   "Categories":[
+      {
+         "CategoryName":"Industrial Thermal Printers",
+         "CategoryDescription":"SATO’s Industrial barcode printers are the hallmark of printing products for harsh environments and applications. Our printers are field tested to ensure you the best print quality possible in barcode, text, and RFID encoding of labels, tags, invoices, packing slips and e-commerce or compliance labeling. Product identification, warehouse bin labels, cross dock, and routing labels are only a few of the barcode labeling applications customers trust every day to SATO.",
+         "Products":[
+            {
+               "ProductName":"CL4NX Plus",
+               "ProductDescription":"The CL4NX Plus printer offers a vast array of standard features that are unequaled by its competition. Printer setups, operation, and maintenance are supremely easy and intuitive.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/6zsciAF.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/rkxkHBg.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/cCoKS5b.png"
+                  }
+               ]
+            },
+            {
+               "ProductName":"CL6NX Plus",
+               "ProductDescription":"The CL6NX Plus printer offers a vast array of standard features that are unequaled by its competition. Printer setups, operation, and maintenance are supremely easy and intuitive.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/zSWQ7l2.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/gn3tZNV.png"
+                  }
+               ]
+            },
+            {
+               "ProductName":"M84Pro",
+               "ProductDescription":"The M84Pro Series - the rugged industrial generation of high performance printer with high resolution capabilities. The M84Pro offers user configurable print resolutions of 203, 305, and 609 dpi. The M84Pro’s powerful electronics provide high throughput and print speeds of 10, 8 and 6 ips at 203, 305 and 609 dpi respectively.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/2KIVo4d.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/LihfIT1.png"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "CategoryName":"Desktop Thermal Printers",
+         "CategoryDescription":"Thermal desktop printers from SATO are compact, cost effective, and easy-to-use. Receipts, labels, wristbands and RFID inventory tracking labels are easily created on a printer that fits just about anywhere. Advanced thermal barcode technology ensures these printers are of the highest quality and extremely reliable. Where space is limited, but label print quality is essential, these feature-rich models offer the best in reliability and price.",
+         "Products":[
+            {
+               "ProductName":"CT4-LX Series",
+               "ProductDescription":"Anything but ordinary, the CT4-LX thermal desktop printer seamlessly combines intelligence, functionality, and performance. Standard features include a 4.3-inch full-color touch screen display, multiple connectivity options, existing application support using on-board competitive emulations along with instructional videos. Setup, operation, and maintenance are just a touch away.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/yBwPFtc.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/z5pbiYv.png"
+                  }
+               ]
+            },
+            {
+               "ProductName":"CT4-LX-HC",
+               "ProductDescription":"Nothing comes close to the CT4-LX-HC thermal desktop Healthcare printer. Seamlessly combining intelligence, functionality and performance. Standard features include clinical-ready antimicrobial plastic casing, disinfectant wipe-down ready, the full color touch display, multiple connectivity options, existing application support, and on-board videos. Setup, operation, and maintenance is just a touch away.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/QAg1GsD.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/gRxhbHc.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/I2VfXbZ.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/IIRKmXJ.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/2b8ksJQ.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/NX62eTA.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/6M5q11P.png"
+                  }
+               ]
+            },
+            {
+               "ProductName":"WS2",
+               "ProductDescription":"Setting the new standard in 2” printing with the ability to accommodate a wide array of media to meet a multitude of print on demand needs.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/Dg0ECsg.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/0BqpyLK.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/Ky3pqTN.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/x0DimPz.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/Mds2lTS.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/llLiSxJ.jpg"
+                  }
+               ]
+            },
+            {
+               "ProductName":"WS4",
+               "ProductDescription":"The SATO WS4 Series of 4-inch desktop thermal printers are feature-rich, affordably priced with great production throughput. Available in Direct Thermal (DT) or Thermal Transfer (TT) the WS4 offers exceptional print quality at either 203dpi or 300dpi with print speeds of up to 6 ips.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/zS2OH1Y.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/MxYyrEa.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/FCH2uEv.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/0Anj60q.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/XKNRHXP.png"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "CategoryName":"Mobile Thermal Printers",
+         "CategoryDescription":"Portable thermal printers offer the flexibility needed for many receipt and label applications. For the mobile work force, point-of-activity printing is a significant way to boost accuracy, efficiency and worker productivity in retail, healthcare, hospitality and warehouse management.",
+         "Products":[
+            {
+               "ProductName":"PW4NX",
+               "ProductDescription":"SATO’s new PW4NX mobile label printer meets the needs of a changing, fast-paced world, and exceeds expectations for what printers can do. Fast, durable, intelligent, and innovative; the PW4NX’s large color screen, programmability, and pre-installed emulations make it user-friendly and easy to integrate. Customers familiar with SATO’s flagship CL4NX Industrial printers will love this compact and portable equivalent.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/34zFy2T.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/tGfWOK2.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/G0l2OrX.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/iQMg0g5.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/8hYyVQH.png"
+                  }
+               ]
+            },
+            {
+               "ProductName":"PW2NX",
+               "ProductDescription":"The PW2NX is SATO’s next generation of IoT-equipped and ruggedized mobile printers designed for use across multiple industry verticals and their applications.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/9daWnEa.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/0zPoq9l.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/oiZ4fev.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/8VIAfBn.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/8zdYsMc.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/PYmuqA3.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/UcTK6hR.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/sPP69z7.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/JVZ8ZI3.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/sKRFU0r.png"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "CategoryName":"Handheld Labeling Solutions",
+         "CategoryDescription":"SATO’s Handheld Labeling Solution portfolio features a broad array of reliable tools that allow users to tag product efficiently and effectively. Proven across industries, our lightweight and ergonomic handheld labelers are intuitive to use with rapid digit selection and easy ink roller and label loading make operations smooth and simple.",
+         "Products":[
+            {
+               "ProductName":"SATO Handheld Labeling Systems",
+               "ProductDescription":"Introduced into the market in 1962, SATO brand Handheld Labeling Solutions have become known for their robust construction, ease of use and printband configurations.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/r4TJ4Be.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/NTG2l1S.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/rLjQOa6.png"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/ZEukPpf.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/MfVbve0.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/MlVM1RU.jpg"
+                  }
+               ]
+            },
+            {
+               "ProductName":"PA Handheld Labeling Systems",
+               "ProductDescription":"PA Handheld Labeling Systems assure high quality and flexibility for shade marking and other consecutive numbering applications.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/JGnTGzd.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/4qNrL4u.jpg"
+                  }
+               ]
+            },
+            {
+               "ProductName":"Meto Handheld Labeling System",
+               "ProductDescription":"A wide range of quality Handheld Labeling Solutions for retail, manufacturing and specialty markets that require accurate information at product level. Meto tools feature Uniform Pressure Device (UPD) technology, which delivers consistent pressure resulting in a reliable print on every label.",
+               "Images":[
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/VldftW2.jpg"
+                  },
+                  {
+                     "ImagePath":"https:\//i.imgur.com\/ZXDCq1G.png"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
