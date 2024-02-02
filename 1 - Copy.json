@@ -136,36 +136,6 @@
          ]
       },
       {
-         "CategoryName":"Tag Printers",
-         "CategoryDescription":"Standalone printing, various types of sensor available, specially-designed accessories.",
-         "Products":[
-            {
-               "ProductName":"DR3e",
-               "ProductDescription":"Print tags for virtually any item ranging from apparels, accessories, to baggage tags and admission tickets. With the printing capability of tags up to 0.28mm or 0.011” thickness, tagging and labeling opportunities with the DR3e are endless.",
-               "Images":[ 
-                  {
-                     "ImagePath":"https:\//i.imgur.com\/RGYMgSh.jpg"
-                  },
-                  {
-                     "ImagePath":"https:\//i.imgur.com\/9SJ055L.jpg"
-                  } 
-               ]
-            },
-            {
-               "ProductName":"TG3",
-               "ProductDescription":"Built specifically for the retail industry, the TG3 will serve your every retail tagging and labeling need. Print tags with your company’s brand name, logo, tagline for branding purpose. Also include care instructions and other fundamental product information such as price, origin, description etc for informational purpose.",
-               "Images":[
-                  {
-                     "ImagePath":"https:\//i.imgur.com\/njuYD22.jpg"
-                  },
-                  {
-                     "ImagePath":"https:\//i.imgur.com\/a560h8U.jpg"
-                  } 
-               ]
-            }
-         ]
-      },
-      {
          "CategoryName":"Mobile Thermal Printers",
          "CategoryDescription":"Portable thermal printers offer the flexibility needed for many receipt and label applications. For the mobile work force, point-of-activity printing is a significant way to boost accuracy, efficiency and worker productivity in retail, healthcare, hospitality and warehouse management.",
          "Products":[
